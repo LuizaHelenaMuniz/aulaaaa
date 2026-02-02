@@ -1,9 +1,9 @@
-function Topo() {
+function Rodape() {
     return
     <>
-    <header>
+    <footer>
         <img src="https://wwfafrica.awsassets.panda.org/img/emperor-penguin_original_ww1446916_169800.webp"></img>
-    </header>
+    </footer>
     </>
 }
-export default Topo
+export default Rodape
